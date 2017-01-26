@@ -3,8 +3,6 @@
   email = justinw@alumni.caltech.edu
 [push]
   default = simple
-[url "git@github.com:"]
-  insteadOf = "https://github.com/"
 
 [color]
   branch = auto
@@ -23,3 +21,5 @@
   added = yellow
   changed = green
   untracked = cyan
+[core]
+	autocrlf = input
