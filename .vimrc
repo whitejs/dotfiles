@@ -60,6 +60,7 @@ Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'clausreinke/typescript-tools.vim'
 Plugin 'HerringtonDarkholme/yats.vim'
 Plugin 'Quramy/tsuquyomi'
+Plugin 'jason0x43/vim-js-indent'
 
 call vundle#end()
 
