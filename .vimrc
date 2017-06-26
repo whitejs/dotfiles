@@ -61,6 +61,7 @@ Plugin 'clausreinke/typescript-tools.vim'
 Plugin 'HerringtonDarkholme/yats.vim'
 Plugin 'Quramy/tsuquyomi'
 Plugin 'jason0x43/vim-js-indent'
+Plugin 'ianks/vim-tsx'
 
 call vundle#end()
 
